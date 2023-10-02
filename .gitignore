@@ -7,5 +7,6 @@ opmrun/.package
 opmrun/opmrun.egg-info
 opmrun/__init__.py
 opmrun/opmrun.spec
+__pycache__/
 *.xml
 *.iml
